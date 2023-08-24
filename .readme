@@ -1,0 +1,5 @@
+git clone https://github.com/alexander-shestopal/IT.git
+create database
+add .env credentials database
+php artisan migrate in terminal
+php artisan serve (else localhost)
